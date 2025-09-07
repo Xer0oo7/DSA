@@ -8,14 +8,17 @@ More programs will be added as development progresses.
 
 ## 📂 Programs Available
 
-| File Name            | Description                          |
-|----------------------|--------------------------------------|
-| 🌀 **CircularQueue.c** | Implementation of Circular Queue     |
-| 🔄 **Dequeue.c**       | Implementation of Double Ended Queue |
-| ➕ **polynomial.c**    | Operations on Polynomials            |
-| 📥 **queue.c**         | Basic Queue Implementation          |
-| 🧩 **sparse.c**        | Sparse Matrix Operations            |
-| 📦 **stack.c**         | Stack Operations using Arrays        |
+| File Name              | Description                                  |
+|-------------------------|----------------------------------------------|
+| 🌀 **CircularQueue.c**   | Implementation of Circular Queue             |
+| 🔄 **Dequeue.c**         | Implementation of Double Ended Queue         |
+| ➕ **polynomial.c**      | Operations on Polynomials                    |
+| 📥 **queue.c**           | Basic Queue Implementation                  |
+| 🧩 **sparse.c**          | Sparse Matrix Operations                    |
+| 📦 **stack.c**           | Stack Operations using Arrays               |
+| 📝 **text_editor.c**     | Simple Text Editor using Linked List         |
+| ➕ **polynomial addition_linked list.c**   | Polynomial Addition using Linked List        |
+
 
 ---
 
